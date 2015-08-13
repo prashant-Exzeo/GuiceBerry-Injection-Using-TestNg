@@ -12,7 +12,7 @@ public class AppTest
 {
     /**
      * Create the test case
-     * @param canary test
+     * @param Canary test
      * @param testName name of the test case
      */
     public AppTest( String testName )
